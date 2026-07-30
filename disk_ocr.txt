@@ -1,0 +1,180 @@
+vpn.pattrick@Rujapala2(passive)> set cli pager off
+vpn.pattrick@Rujapala2 (passive)> show system disk-space
+Filesystem
+Size
+Used Avail Uses Mounted on.
+/dev/md3
+32G
+6.6G
+24G
+23% /
+none
+63G
+140K
+63G
+1% /dev
+/dev/md5
+63G
+15G
+46G
+24% /opt/pancfg
+/dev/md6
+32G
+7.96
+22G
+27% /opt/panrepo
+tmpts
+746
+4.36
+70G
+6% /dev/snm
+tmpfs
+63G
+604
+63G
+1% /run/dpdk
+/dev/md8
+265G
+103G
+149G
+41% /opt/panlogs
+cgroup_root
+63G
+0
+63G
+03 /cgroup
+tmpfs
+12M
+968K
+12M
+8 /opt/pancfg/mgmt/ssl/private
+vpn.pattxick@Rujapala2 (passive)>
+ show system environmentals
+-Thermal---
+Slot
+Dascription
+Alaxm
+Degrees C
+Min C
+3 xeH
+$1
+CPU Die temperature sensor
+3ste)
+31.43
+0.00
+95.00
+S1
+Ulls (inlet) temperature sensor
+False
+25.20
+-5.00
+60.00
+51
+DIMM 3 Bank 1
+False
+30.88
+0.00
+85.00
+51
+Ull9 (outlet) tenperature sensor
+False
+29.10
+0.00
+70.00
+$1
+DIMM 0 Bank 0
+False
+30.15
+0.00
+85.00
+$1
+DIMM I Bank 0
+False
+30.70
+0.00
+85.00
+ts
+DIM 2 Bank
+0
+False
+30.57
+0.00
+85.00
+$1
+DIM 3 
+Bank
+False
+30.88
+0.00
+85.00
+s1
+DIM 0 Bank
+:
+False
+30.15
+0.00
+85.00
+$1
+DIM I Bank
+False
+30.70
+0.00
+85.00
+S1
+DIMM 2 Bank
+False
+30.57
+0.00
+85.00
+-Fan Tray---
+Slot
+Description
+Alarm
+Inserted
+$1
+Fan Txay #l (leit)
+astet
+anxe
+$1
+Fan Tray #2 (middle)
+False
+True
+51
+Fan Tray #3 (right)
+False
+True
+Fans-.
+Slot
+Dascription
+Alarm
+RPMs Min RPM
+S1
+Inlet fan of Fan unit #1
+False
+2630
+2000
+$1
+Outlet fan of Fan unit #1.
+False
+2469
+1400
+51
+Inlet fan of Fan unit #2
+False
+2636
+2000
+$1
+Outlet fan of Fan unit #2
+False
+2480
+1400
+$1
+Inlet fan of Fan unit #3
+False
+2747
+2000
+ts
+Outlet fan of Fan unit #3.
+False
+2537
+1400

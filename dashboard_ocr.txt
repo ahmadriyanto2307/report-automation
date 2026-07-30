@@ -1,0 +1,133 @@
+) DCRD8-TIKE-20-9891b:c7b-59P-4c5z-80d8-ad38a35ab93a - 10.1614s1954489 - Remote Desktop Connecfon
+H :
++.
+Itemet SiC
+Itemet IR
+PA-5410
+3 Cokmns
+Lw.
+S mins
+ntereees
+Ceternematen
+135793 719223 4122742 2314033354437 39
+DeviceNameFWJakaria 02
+No data availbable.
+MGT PAddres
+MGT Netmask
+255 255, 2550
+MGT Defauit Gatey
+1O0019131
+No Iozks found
+MGT lPv6 Address
+unknoun
+AHEELAQA
+AGERok tectc (Last 6O mlme3)
+MGT IPv6 Link Local Address
+fe80:8c36:7afffe20;:5910/64
+Mode
+ Active-passive
+MGT IPv6 Defauit Gatewey
+No data found
+Local
+MGT MACAddress
+8c.367a20:5910
+pyqes uoyhosat-ad onnn
+Mode
+PA-5410
+Peer (10.161.0.245)
+Actiy
+Serial #
+T800002200
+Adain
+From
+Clent
+Sesslon Start
+ Ide For
+ Running Config
+mchronized 5
+Software Version
+112.8
+vpnpaurick
+10.160.254.93
+Web
+07/27/2026 09:22:14
+ 00:04:10s
+ App Verston
+GobalProtectAgent
+0.00
+Threat Version
+Match
+Application Version
+(9Z/zz/20) 69T0E 8Z[6
+(22/2/10) 62101-1226
+AntivirusVesion
+Mateh
+Threat Versk
+No daa ayaTable.
+Antvirus Version
+5624-6151 (07/25/26)
+PAN-OSVers!on
+Match
+Device Dictionary Version
+234-738 (07/17/26)
+GlobalProtect Vers)
+Match
+WldFire Version
+1082542-1086885 (05/13/26)
+URL Fltering Version
+0000.00.00.000
+HA1 Boci
+Jp
+GlobalPrc
+otect Clentless VPN
+HA2
+Tp
+Plugin dip
+Match
+Mon Jul 27 09:27-29 2026
+ime
+267 dsys, 10:0725
+Advanced Routing
+Seem
+DupIkcate IP
+Disabied
+Descriptdon
+Time
+Plugin DLP
+EDL(EDL-CRASH) No changes t list ile
+dJp-5.04
+07/27 0923:18
+Device Certificate Status
+None
+EDL(EDL-CRASH} Unable to fetch external dynan'c list URLusng bad/iegal format erd
+07/27 09:23:18
+missing URL Using old copy for refresh.
+necbon to Updatesever close
+s. paloaltene works.com, sorce.
+VE-u560 22/27
+Sretem hescuraes
+ET08ZFE0E
+User vpn:patrick loggedin via Web Irom 10.160.254.93 using httpsd
+07/27 09-2:13
+Management cPU
+1% 
+Quhenticaled for r' on.patrick. From: 0.160254.93.
+C1-22-60222
+Data Piane CPU
+0%
+ED4EDL CRASH} Nochange to Ikt Cc
+ZE-8T60 22/20
+Session Count
+8666667 / Z676L
+EDL(EDL-cRASH) Un-ble to fetch extemal dynamnic Ist URLusing bad/4
+Iegal format or
+ZE-8T-60 2ZZ0
+missing URL Using old copy for refresh.
+Fad to coe owdee dd, ey r secod.
+07/27 09:17:06
+EDJ(EDL-CRASH) No hange o Ilt Ne
+ 07/27 0943:16
+paloalt
+paessaayan
+0
+27:07 202
